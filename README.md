@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 
 #### I'm a traveler in Teyvat !
 
-since chinese anti-addicted policy kicked me out of the door of teyvat, I have been running an [genshin sharing project](https://github.com/wmyfelix/genshin-sharing) in aisa server.
+since chinese anti-addicted policy kicked me out of the door of teyvat, I have been running an [genshin sharing project](https://github.com/wmyfelix/genshin-sharing) in asia server.
 
 ![](https://genshin-card.getloli.com/20/74571793.png)
