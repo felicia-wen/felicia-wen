@@ -1,6 +1,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wmyfelix&theme=dracula&count_private=true" />
 
+#
+
 ## 私はフェリシアです 👋 
+
 ### ciallo, this is Felicia !
 - 🔞 I'm nearly 17.
 - 🌱 I’m currently learning C#, js, Japanese
@@ -46,6 +49,6 @@ Here are some ideas to get you started:
 
 #### I'm a traveler in Teyvat !
 
-since chinese anti-addicted policy kicked me out of the door of teyvat, I have been running an [genshin sharing project](https://github.com/wmyfelix/genshin-sharing) on asia server.
+since Chinese anti-addicted policy kicked me out of the door of teyvat, I have been running an [genshin sharing project](https://github.com/wmyfelix/genshin-sharing) on Asia servers.
 
 ![](https://genshin-card.getloli.com/20/74571793.png)
