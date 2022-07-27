@@ -1,11 +1,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wmyfelix&theme=dracula&count_private=true" />
 
-#
 
-## 私はフェリシアです 👋 
+### 私はフェリシアです 👋 
 
-### ciallo, this is Felicia !
-- 🔞 I'm nearly 17.
+# Ciallo, this is Felicia !
+- 🔞 I'm 17.
 - 🌱 I’m currently learning C#, js, Japanese
 - 🤔 I’m looking for help with Physics, Maths 
 
@@ -23,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 💻 My daily driver ...
+## 💻 My daily driver ...
 <!--
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows)
 [![WSL](https://img.shields.io/badge/WSL-4F4F4F?style=flat-square&logo=debian&logoColor=FFFFFF&labelColor=D70A53)](https://wiki.debian.org/InstallingDebianOn/Microsoft/Windows/SubsystemForLinux)
@@ -46,9 +45,3 @@ Here are some ideas to get you started:
 
 [![Quest](https://img.shields.io/badge/Quest-4F4F4F?style=flat-square&logo=oculus)](https://oculus.com)
 [![PSN](https://img.shields.io/badge/PSN-4F4F4F?style=flat-square&logo=playstation)](https://www.playstation.com)
-
-#### I'm a traveler in Teyvat !
-
-since Chinese anti-addicted policy kicked me out of the door of teyvat, I have been running an [genshin sharing project](https://github.com/wmyfelix/genshin-sharing) on Asia servers.
-
-![](https://genshin-card.getloli.com/20/74571793.png)
