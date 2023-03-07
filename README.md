@@ -3,7 +3,7 @@
 
 ### 私はフェリシアです 👋 
 
-# Ciallo, this is Felicia !
+# Ciallo, this is Felicia!
 - 🔞 I'm ALWAYS 17.
 - 🌱 I’m currently learning C/C++, js, Japanese
 - 🤔 I’m looking for life
