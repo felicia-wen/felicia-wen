@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wmyfelix&theme=dracula&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=felicia-wen&theme=dracula&count_private=true" />
 
 
 ### 私はフェリシアです 👋 
